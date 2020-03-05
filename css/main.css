@@ -1,0 +1,35 @@
+header {font-family: 'Fira Sans', sans-serif;}
+header span {display: inline-block;}
+.header-svg path {fill: #fff; width: 32px; height: 32px;}
+
+.mirror {
+  -moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+
+.service-head {
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+@media (min-width: 768px) {
+  .service-head {
+    margin-top: 7rem;
+  }
+}
+
+.spacer {margin: 3rem 0;}
+.contact-form label {font-weight:600;}
+
+.contact-form button {
+	background: gray;
+	color: #fff;
+	font-weight: 600;
+}
+
+.contact-form button:focus {box-shadow:none;}
+.pointer-hand {cursor: pointer;}
