@@ -16,6 +16,14 @@ header span {display: inline-block;}
   letter-spacing: -.05rem;
 }
 
+.lead-left {
+  border-right: .5rem solid darkblue; 
+}
+
+.lead-right {
+  border-left: .5rem solid darkblue;
+}
+
 @media (min-width: 768px) {
   .service-head {
     margin-top: 7rem;
