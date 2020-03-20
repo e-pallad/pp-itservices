@@ -17,9 +17,6 @@ header span {display: inline-block;}
 }
 
 @media (min-width: 768px) {
-  .service-head {
-    margin-top: 7rem;
-  }
   .lead-left {
     border-right: .5rem solid darkblue;
     padding-right: 1rem;
