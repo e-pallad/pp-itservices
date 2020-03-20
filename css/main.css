@@ -22,9 +22,11 @@ header span {display: inline-block;}
   }
   .lead-left {
     border-right: .5rem solid darkblue;
+    padding-right: 1rem;
   }
   .lead-right {
     border-left: .5rem solid darkblue;
+    padding-left: 1rem;
   }
 }
 
