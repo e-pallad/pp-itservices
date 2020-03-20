@@ -30,6 +30,10 @@ header span {display: inline-block;}
   }
 }
 
+.portfolio-pad {
+  padding: 3rem;
+}
+
 .spacer {margin: 3rem 0;}
 .contact-form label {font-weight:600;}
 
