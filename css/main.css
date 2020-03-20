@@ -25,6 +25,9 @@ header span {display: inline-block;}
     border-left: .5rem solid darkblue;
     padding-left: 1rem;
   }
+  .portfolio-pad {
+    padding: 5rem;
+  }
 }
 
 .spacer {margin: 3rem 0;}
