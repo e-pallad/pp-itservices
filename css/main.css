@@ -44,4 +44,13 @@ header span {display: inline-block;}
 }
 
 .contact-form button:focus {box-shadow:none;}
+.contact-icon a {
+  text-align: center;
+  height: 3rem;
+  width: 3rem;
+  background: rgba(255,255,255,.1);
+  border-radius: 100%;
+  line-height: 3rem;
+  color: rgba(255,255,255,.3);
+}
 .pointer-hand {cursor: pointer;}
