@@ -44,13 +44,18 @@ header span {display: inline-block;}
 }
 
 .contact-form button:focus {box-shadow:none;}
-.contact-icon a {
+.contact-icons a {
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: rgba(255,255,255,.1);
+  background: #808080;
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(255,255,255,.3);
+  color: #fff;
+}
+.contact-icons a:hover {
+  color: #808080;
+  background: #fff;
+  border: 1px solid #808080;
 }
 .pointer-hand {cursor: pointer;}
