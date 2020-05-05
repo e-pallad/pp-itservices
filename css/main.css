@@ -41,7 +41,8 @@ header span {display: inline-block;}
 .contact-form label {font-weight:600;}
 
 .contact-form button {
-	background: gray;
+	background: #173e43;
+  border: 1px solid #fae596;
 	color: #fff;
 	font-weight: 600;
 }
