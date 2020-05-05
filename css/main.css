@@ -1,5 +1,6 @@
-body {background-color: #173e43;}
+body {background-color: #173e43; color: #fff;}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, p {color: #fff;}
+nav.navbar, footer {background-color: #fae596;}
 header {font-family: 'Fira Sans', sans-serif;}
 header span {display: inline-block;}
 .header-svg path {fill: #fff; width: 32px; height: 32px;}
