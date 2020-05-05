@@ -1,3 +1,5 @@
+body {background-color: #173e43;}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, p {color: #fff;}
 header {font-family: 'Fira Sans', sans-serif;}
 header span {display: inline-block;}
 .header-svg path {fill: #fff; width: 32px; height: 32px;}
@@ -18,11 +20,11 @@ header span {display: inline-block;}
 
 @media (min-width: 768px) {
   .lead-left {
-    border-right: .5rem solid darkblue;
+    border-right: .5rem solid #3fb0ac;
     padding-right: 1rem;
   }
   .lead-right {
-    border-left: .5rem solid darkblue;
+    border-left: .5rem solid #3fb0ac;
     padding-left: 1rem;
   }
   .portfolio-pad {
