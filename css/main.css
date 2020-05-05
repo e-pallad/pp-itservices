@@ -1,5 +1,6 @@
 body {background-color: #173e43; color: #fff;}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, p {color: #fff;}
+.text-muted {color: #dddfd4!important;}
 nav.navbar, footer {background-color: #fae596;}
 header {font-family: 'Fira Sans', sans-serif;}
 header span {display: inline-block;}
@@ -48,6 +49,8 @@ header span {display: inline-block;}
 }
 
 .contact-form button:focus {box-shadow:none;}
+.contact-form button:hoover {color: #dddfd4;}
+
 .contact-icons a {
   text-align: center;
   height: 3rem;
