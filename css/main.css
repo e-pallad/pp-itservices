@@ -51,14 +51,14 @@ header span {display: inline-block;}
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: #808080;
+  background: #173e43;
   border-radius: 100%;
   line-height: 3rem;
   color: #fff;
 }
 .contact-icons a:hover {
-  color: #808080;
+  color: #173e43;
   background: #fff;
-  border: 1px solid #808080;
+  border: 1px solid #173e43;
 }
 .pointer-hand {cursor: pointer;}
